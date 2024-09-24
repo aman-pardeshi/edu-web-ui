@@ -1,0 +1,117 @@
+<div>
+  <div class="hero-container">
+    <div class="wrapper banner-container relative">
+      <div class="banner-heading">
+        <h1>Study Abroad: Unlock a World of Opportunities</h1>
+        <p class="text-xl">
+          From selecting the right course to securing your university admission, we support you at every stage of your journey.
+        </p>
+
+        <div class="flex mt-3">
+          <a
+            pButton
+            label="Book a free consulation"
+            class="p-button-success"
+            size="large"
+            routerLink="/enquiry"
+          ></a>
+        </div>
+
+        <!-- <p-button
+          label="Book a free consulation"
+          severity="help"
+          size="large"
+        /> -->
+      </div>
+
+      <img src="/assets/demo/images/hero-picture-male.png" class="banner-img" />
+
+      <!-- <div class="banner-sidetext">
+        <div class="subcontainer">
+          <h3>Why choose SGIVS?</h3>
+
+          <div class="flex flex-column gap-4">
+            <div class="mb-1">
+              <h3 class="mb-0">4.9/5</h3>
+              <div>Reviewed by 52k students</div>
+            </div>
+
+            <div class="mb-1">
+              <h3 class="mb-0">18+ Years</h3>
+              <div>
+                Helping international students successfully pursue studies in
+                the UK
+              </div>
+            </div>
+
+            <div class="mb-1">
+              <h3 class="mb-0">1.3 Million</h3>
+              <div>Students Assisted</div>
+            </div>
+
+            <div class="mb-1">
+              <h3 class="mb-0">2021 PIEoneer Awards</h3>
+              <div>Highly commended for student counselling</div>
+            </div>
+          </div>
+        </div>
+      </div> -->
+    </div>
+  </div>
+
+  <div class="leading-unv-container">
+    <div class="wrapper">
+      <h3 class="text-center">Leading Universities and Partners</h3>
+
+      <div class="flex justify-content-center mt-3 gap-3 pb-3">
+        <p-selectButton
+          [options]="countryOptions"
+          [(ngModel)]="selectedCountry"
+          optionLabel="name"
+          optionValue="value"
+        >
+          <ng-template let-item pTemplate> {{ item.name }}</ng-template>
+        </p-selectButton>
+      </div>
+
+      <div class="logos-container">
+        <img
+          [src]="university.logo"
+          alt=""
+          *ngFor="
+            let university of universities[selectedCountry]?.universities;
+            index as i
+          "
+          class="uni-logo"
+        />
+      </div>
+    </div>
+
+    <div class="flex justify-content-center mt-4 pt-3">
+      <a
+        pButton
+        label="See all partner universities"
+        class="p-button-outlined"
+        size="large"
+        routerLink="/partner-universities"
+      ></a>
+    </div>
+  </div>
+
+  <div class="meet-counsellor-container">
+    <div class="subcontainer">
+      <h3 class="text-4xl">Meet your counsellor today</h3>
+      <p>
+        Find your ideal university in the UK with guidance from our certified
+        counsellors. Take one step closer to achieving your academic goals.
+      </p>
+      <a
+        pButton
+        label="Book a free consulation"
+        class="p-button-outlined white-btn mt-3"
+        size="large"
+        routerLink="/enquiry"
+      ></a>
+    </div>
+  </div>
+</div>

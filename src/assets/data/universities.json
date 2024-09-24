@@ -1,0 +1,535 @@
+[
+  {
+    "country": "UK",
+    "universities": [
+      {
+        "name": "University of Bath",
+        "logo": "/assets/demo/images/universities-logos/uk/bath-uni.png"
+      },
+      {
+        "name": "Cardiff University",
+        "logo": "/assets/demo/images/universities-logos/uk/cardiff_university_logo.png"
+      },
+      {
+        "name": "Newcastle University",
+        "logo": "/assets/demo/images/universities-logos/uk/newcastle-uni.png"
+      },
+      {
+        "name": "Queen Mary University of London",
+        "logo": "/assets/demo/images/universities-logos/uk/queen-mary-uni-london.png"
+      },
+      {
+        "name": "University of Southampton",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-southampton.png"
+      },
+      {
+        "name": "University of Bristol",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-bristol.png"
+      },
+      {
+        "name": "University of Birmingham",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-birmingham-logo.png"
+      },
+      {
+        "name": "University of Lincoln",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-lincoln.png"
+      },
+      {
+        "name": "York St John University",
+        "logo": "/assets/demo/images/universities-logos/uk/york-st-john-university.png"
+      },
+      {
+        "name": "University of Liverpool",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-liverpool.png"
+      },
+      {
+        "name": "University of East Anglia",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-east-anglia.png"
+      },
+      {
+        "name": "University of York",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-york.png"
+      },
+      {
+        "name": "Royal Agricultural University",
+        "logo": "/assets/demo/images/universities-logos/uk/royal-agri-uni.png"
+      },
+      {
+        "name": "Middlesex University",
+        "logo": "/assets/demo/images/universities-logos/uk/middlesex-uni.png"
+      },
+      {
+        "name": "Ulster University Belfast",
+        "logo": "/assets/demo/images/universities-logos/uk/ulster-uni-belfast.png"
+      },
+      {
+        "name": "University of Hull",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-hull.png"
+      },
+      {
+        "name": "Heriot-Watt University-UK",
+        "logo": "/assets/demo/images/universities-logos/uk/heriot-watt-uni.png"
+      },
+      {
+        "name": "Royal Holloway University of London",
+        "logo": "/assets/demo/images/universities-logos/uk/royal-holloway-uni.png"
+      },
+      {
+        "name": "Loughborough University",
+        "logo": "/assets/demo/images/universities-logos/uk/loughborough.png"
+      },
+      {
+        "name": "St Mary's Twickenham London",
+        "logo": "/assets/demo/images/universities-logos/uk/st-mary-twickenham.png"
+      },
+      {
+        "name": "The University of Sunderland",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-sunderland.png"
+      },
+      {
+        "name": "University of Portsmouth",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-portsmouth.png"
+      },
+      {
+        "name": "University of The West of England Bristol",
+        "logo": "/assets/demo/images/universities-logos/uk/uwe_bristol_logo.png"
+      },
+      {
+        "name": "University For The Creative Arts",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-creative-arts.png"
+      },
+      {
+        "name": "University of Aberdeen",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-aberdeen.png"
+      },
+      {
+        "name": "Anglia Ruskin University",
+        "logo": "/assets/demo/images/universities-logos/uk/anglia-ruskin-uni.png"
+      },
+      {
+        "name": "University of Reading",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-reading.png"
+      },
+      {
+        "name": "University of Suffolk Uk",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-suffolk.png"
+      },
+      {
+        "name": "University of Exeter",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-exeter.png"
+      },
+      {
+        "name": "Leeds Arts University",
+        "logo": "/assets/demo/images/universities-logos/uk/leeds-arts-uni.png"
+      },
+      {
+        "name": "Queen's University Belfast",
+        "logo": "/assets/demo/images/universities-logos/uk/queen-uni-belfast.png"
+      },
+      {
+        "name": "Bournemouth University",
+        "logo": "/assets/demo/images/universities-logos/uk/bournemouth-uni.png"
+      },
+      {
+        "name": "Cranfield University",
+        "logo": "/assets/demo/images/universities-logos/uk/cranfield-uni.jpg"
+      },
+      {
+        "name": "University of Brighton",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-brighton.png"
+      },
+      {
+        "name": "University of Aberystwyth",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-aberystwyth.png"
+      },
+      {
+        "name": "Oxford Brookes University",
+        "logo": "/assets/demo/images/universities-logos/uk/oxford-bookes-uni.png"
+      },
+      {
+        "name": "University of West London",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-west-london.png"
+      },
+      {
+        "name": "Heriott Watt University",
+        "logo": "/assets/demo/images/universities-logos/uk/heriot-watt-uni.png"
+      },
+      {
+        "name": "University of Salford",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-salford.png"
+      },
+      {
+        "name": "University of Strathclyde",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-strathclyde-logo.jpeg"
+      },
+      {
+        "name": "Wrexham University",
+        "logo": "/assets/demo/images/universities-logos/uk/wrexham-uni.png"
+      },
+      {
+        "name": "The University of Sheffield",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-sheffield-logo.png"
+      },
+      {
+        "name": "University College Birmingham",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-college-birmingham.png"
+      },
+      {
+        "name": "Aston University",
+        "logo": "/assets/demo/images/universities-logos/uk/aston-uni.png"
+      },
+      {
+        "name": "University of Essex",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-essex.png"
+      },
+      {
+        "name": "Bath Spa University",
+        "logo": "/assets/demo/images/universities-logos/uk/bath-spa-uni.png"
+      },
+      {
+        "name": "University of Wolverhampton",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-wolverhampton.png"
+      },
+      {
+        "name": "The University of Law",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-law.png"
+      },
+      {
+        "name": "University of Dundee",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-dundee.png"
+      },
+      {
+        "name": "London Metropolitan University",
+        "logo": "/assets/demo/images/universities-logos/uk/london-metropolitan-uni.png"
+      },
+      {
+        "name": "Ravensbourne University London",
+        "logo": "/assets/demo/images/universities-logos/uk/ravensbourne-uni-london.png"
+      },
+      {
+        "name": "Nottingham Trent University",
+        "logo": "/assets/demo/images/universities-logos/uk/nottingham-trent-uni.png"
+      },
+      {
+        "name": "The University of Winchester",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-winchester.png"
+      },
+      {
+        "name": "Richmond - The American University London",
+        "logo": "/assets/demo/images/universities-logos/uk/richmond-american-uni-london.png"
+      },
+      {
+        "name": "Canterbury Christ Church University",
+        "logo": "/assets/demo/images/universities-logos/uk/canterbury-christ-chruch-uni.png"
+      },
+      {
+        "name": "University of Greenwich",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-greenwich.png"
+      },
+      {
+        "name": "Leeds Beckett University",
+        "logo": "/assets/demo/images/universities-logos/uk/leeds-beckett-uni.png"
+      },
+      {
+        "name": "University of East London",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-east-london.png"
+      },
+      {
+        "name": "University of Chester",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-chester.png"
+      },
+      {
+        "name": "University of Gloucestershire",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-gloucestershire.png"
+      },
+      {
+        "name": "De Montfort University",
+        "logo": "/assets/demo/images/universities-logos/uk/de-montfort-uni.png"
+      },
+      {
+        "name": "Keele University",
+        "logo": "/assets/demo/images/universities-logos/uk/keele-uni.png"
+      },
+      {
+        "name": "Edinburgh Napier University",
+        "logo": "/assets/demo/images/universities-logos/uk/edinburgh-napier-uni.png"
+      },
+      {
+        "name": "Bangor University",
+        "logo": "/assets/demo/images/universities-logos/uk/bangor-uni.png"
+      },
+      {
+        "name": "Robert Gordon University",
+        "logo": "/assets/demo/images/universities-logos/uk/robert-gordon-uni.png"
+      },
+      {
+        "name": "University of Roehampton",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-roehampton.png"
+      },
+      {
+        "name": "University of Bradford",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-bradford.png"
+      },
+      {
+        "name": "Coventry University",
+        "logo": "/assets/demo/images/universities-logos/uk/conventry-uni.png"
+      },
+      {
+        "name": "University of The West of Scotland",
+        "logo": "/assets/demo/images/universities-logos/uk/uni-west-scotland.png"
+      }
+    ]
+  },
+  {
+    "country": "USA",
+    "universities": [
+      {
+        "name": "Cleveland State University",
+        "logo": "/assets/demo/images/universities-logos/usa/cleveland_state_uni.jpeg"
+      },
+      {
+        "name": "University of Dayton",
+        "logo": "/assets/demo/images/universities-logos/usa/uni-dayton.png"
+      },
+      {
+        "name": "Auburn University",
+        "logo": "/assets/demo/images/universities-logos/usa/auburn-uni.png"
+      },
+      {
+        "name": "Gonzaga University",
+        "logo": "/assets/demo/images/universities-logos/usa/gonzaga-uni.png"
+      },
+      {
+        "name": "Johns Hopkins University",
+        "logo": "/assets/demo/images/universities-logos/usa/john-hopkins.png"
+      },
+      {
+        "name": "University of South Carolina",
+        "logo": "/assets/demo/images/universities-logos/usa/uni_south_caroline.png"
+      },
+      {
+        "name": "American University",
+        "logo": "/assets/demo/images/universities-logos/usa/american_uni.png"
+      },
+      {
+        "name": "Lewis University",
+        "logo": "/assets/demo/images/universities-logos/usa/lewis_uni.png"
+      },
+      {
+        "name": "Palm Beach Atlantic University",
+        "logo": "/assets/demo/images/universities-logos/usa/palm_beach_atlantic.png"
+      },
+      {
+        "name": "Towson University",
+        "logo": "/assets/demo/images/universities-logos/usa/towson_uni.png"
+      },
+      {
+        "name": "Tulane University",
+        "logo": "/assets/demo/images/universities-logos/usa/tulane-uni.png"
+      },
+      {
+        "name": "University of Illinois at Springfield",
+        "logo": "/assets/demo/images/universities-logos/usa/illinois-springfield.jpeg"
+      },
+      {
+        "name": "University of Wyoming",
+        "logo": "/assets/demo/images/universities-logos/usa/uni_wyoming.png"
+      },
+      {
+        "name": "Fairfield University",
+        "logo": "/assets/demo/images/universities-logos/usa/fairfield_uni.png"
+      },
+      {
+        "name": "Oklahoma City University",
+        "logo": "/assets/demo/images/universities-logos/usa/oklahoma_city.png"
+      },
+      {
+        "name": "Roosevelt University",
+        "logo": "/assets/demo/images/universities-logos/usa/roosevelt_uni.jpeg"
+      },
+      {
+        "name": "Jacksonville University",
+        "logo": "/assets/demo/images/universities-logos/usa/jacksonville-uni.png"
+      },
+      {
+        "name": "University of Massachusetts Boston",
+        "logo": "/assets/demo/images/universities-logos/usa/uni-massachsetts.png"
+      },
+      {
+        "name": "Adelphi University",
+        "logo": "/assets/demo/images/universities-logos/usa/adelphi-uni.png"
+      },
+      {
+        "name": "Rutgers University - Camden",
+        "logo": "/assets/demo/images/universities-logos/usa/rugters-uni-camden.png"
+      },
+      {
+        "name": "Lakeland University",
+        "logo": "/assets/demo/images/universities-logos/usa/lakeland-uni.png"
+      },
+      {
+        "name": "University of the Pacific",
+        "logo": "/assets/demo/images/universities-logos/usa/uni-pacific.png"
+      },
+      {
+        "name": "Wentworth Institute of Technology",
+        "logo": "/assets/demo/images/universities-logos/usa/wentworth-institute-tech.png"
+      },
+      {
+        "name": "Western New England University",
+        "logo": "/assets/demo/images/universities-logos/usa/western-new-england-uni.png"
+      },
+      {
+        "name": "Robert Morris University",
+        "logo": "/assets/demo/images/universities-logos/usa/robert-morris-uni.png"
+      },
+      {
+        "name": "Central Methodist University",
+        "logo": "/assets/demo/images/universities-logos/usa/central-methodist-uni.png"
+      },
+      {
+        "name": "Missouri University Of Science & Technology",
+        "logo": "/assets/demo/images/universities-logos/usa/missouri-uni-sci-tech.png"
+      },
+      {
+        "name": "Barton College",
+        "logo": "/assets/demo/images/universities-logos/usa/barton-college.png"
+      },
+      {
+        "name": "University Of Texas at San Antonio",
+        "logo": "/assets/demo/images/universities-logos/usa/uni-texas-san-antonio.png"
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "universities": [
+      {
+        "name": "Conestoga College",
+        "logo": "/assets/demo/images/universities-logos/canada/conestoga-college.png"
+      },
+      {
+        "name": "George Brown College",
+        "logo": "/assets/demo/images/universities-logos/canada/conestoga-college.png"
+      },
+      {
+        "name": "Sheridan College",
+        "logo": "/assets/demo/images/universities-logos/canada/sherida-college.png"
+      },
+      {
+        "name": "University Canada West",
+        "logo": "/assets/demo/images/universities-logos/canada/uni-canada-west.png"
+      },
+      {
+        "name": "Niagara College",
+        "logo": "/assets/demo/images/universities-logos/canada/niagara-college.png"
+      },
+      {
+        "name": "Loyalist College",
+        "logo": "/assets/demo/images/universities-logos/canada/loyalist-college.png"
+      },
+      {
+        "name": "Trent University",
+        "logo": "/assets/demo/images/universities-logos/canada/trent-uni.png"
+      },
+      {
+        "name": "Georgian at ILAC (Via ILAC)",
+        "logo": "/assets/demo/images/universities-logos/canada/georgia-at-ilac.png"
+      },
+      {
+        "name": "Fanshawe College",
+        "logo": "/assets/demo/images/universities-logos/canada/fanshawe-college.png"
+      },
+      {
+        "name": "Alexander College",
+        "logo": "/assets/demo/images/universities-logos/canada/alexander-college.png"
+      }
+    ]
+  },
+  {
+    "country": "Gemany",
+    "universities": [
+      {
+        "name": "ISM (7 CAMPUS)",
+        "logo": "/assets/demo/images/universities-logos/germany/ism-7-campus.png"
+      },
+      {
+        "name": "GISMA",
+        "logo": "/assets/demo/images/universities-logos/germany/gisma.png"
+      },
+      {
+        "name": "IU - International University of Applied Science",
+        "logo": "/assets/demo/images/universities-logos/germany/iu-uni-applied-sci.png"
+      },
+      {
+        "name": "Steinbeis University",
+        "logo": "/assets/demo/images/universities-logos/germany/steinbeis-uni.png"
+      },
+      {
+        "name": "Hochschule Fresenius University of Applied Science",
+        "logo": "/assets/demo/images/universities-logos/germany/hochschule-fresenius-uni-applied-sci.png"
+      },
+      {
+        "name": "CBS",
+        "logo": "/assets/demo/images/universities-logos/germany/cbs.jpg"
+      },
+      {
+        "name": "BSBI",
+        "logo": "/assets/demo/images/universities-logos/germany/bsbi.png"
+      },
+      {
+        "name": "University of Europe for Applied Science",
+        "logo": "/assets/demo/images/universities-logos/germany/uni-europe-applied-sci.png"
+      },
+      {
+        "name": "EU Business School, Munich",
+        "logo": "/assets/demo/images/universities-logos/germany/eu-business-school-munich.png"
+      },
+      {
+        "name": "SRH Hochschulen",
+        "logo": "/assets/demo/images/universities-logos/germany/srh-hochschulen.png"
+      },
+      {
+        "name": "Arden University",
+        "logo": "/assets/demo/images/universities-logos/germany/arden-uni.png"
+      },
+      {
+        "name": "New European College",
+        "logo": "/assets/demo/images/universities-logos/germany/new-european-college.png"
+      }
+    ]
+  },
+  {
+    "country": "Ireland",
+    "universities": [
+      {
+        "name": "Griffith University",
+        "logo": "/assets/demo/images/universities-logos/ireland/griffith-uni.png"
+      },
+      {
+        "name": "Dublin Business School",
+        "logo": "/assets/demo/images/universities-logos/ireland/dublin-business-school.png"
+      },
+      {
+        "name": "University College Cork",
+        "logo": "/assets/demo/images/universities-logos/ireland/uni-college-cork.png"
+      },
+      {
+        "name": "University of Limerick",
+        "logo": "/assets/demo/images/universities-logos/ireland/uni-limerick.png"
+      },
+      {
+        "name": "Dublin City University",
+        "logo": "/assets/demo/images/universities-logos/ireland/dublin-city-uni.png"
+      },
+      {
+        "name": "Trinity College Dublin",
+        "logo": "/assets/demo/images/universities-logos/ireland/trinity-college-dublin.png"
+      },
+      {
+        "name": "University of Galway",
+        "logo": "/assets/demo/images/universities-logos/ireland/uni-galway.png"
+      }
+    ]
+  }
+]

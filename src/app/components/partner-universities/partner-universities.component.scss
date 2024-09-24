@@ -1,0 +1,16 @@
+.logos-container {
+  // height: 143px;
+  padding-top: 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 1.5rem;
+  grid-row-gap: 2rem;
+  flex-wrap: wrap;
+
+  .uni-logo {
+    width: 8rem;
+    height: 3rem;
+    object-fit: contain;
+    margin: 0 auto;
+  }
+}

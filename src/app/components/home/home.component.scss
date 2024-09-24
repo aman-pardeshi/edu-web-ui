@@ -1,0 +1,122 @@
+.hero-container {
+  background: #41295a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    90.62deg,
+    #158bdf 2.25%,
+    #0c5c96 50.59%,
+    #158bdf 97.05%
+  );
+  background: linear-gradient(
+    90.62deg,
+    #158bdf 2.25%,
+    #0c5c96 50.59%,
+    #158bdf 97.05%
+  );
+  color: #fff;
+  height: calc(100vh - 5rem);
+  overflow: hidden;
+  position: relative;
+
+  .banner-container {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 100%;
+  }
+
+  .banner-img {
+    width: 35rem;
+    height: auto;
+  }
+
+  .banner-heading {
+    // position: absolute;
+    // left: 0rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    // align-items: center;
+    // width: 40rem;
+    // top: 7rem;
+
+    > h1 {
+      font-weight: 700;
+      font-size: 56px;
+      color: #fff !important;
+      line-height: 70px;
+      text-align: left;
+    }
+
+    > p {
+      width: 80%;
+    }
+  }
+
+  .banner-sidetext {
+    position: absolute;
+    right: 0rem;
+    width: 25rem;
+    text-align: right;
+    top: 8rem;
+
+    .subcontainer {
+      display: flex;
+      justify-content: end;
+      flex-direction: column;
+      // text-align: right;
+
+      .data-container-1 {
+        width: 35%;
+      }
+
+      .data-container-2 {
+        width: 65%;
+      }
+    }
+  }
+}
+
+.leading-unv-container {
+  padding: 5rem 0;
+  background: #fff;
+
+  .logos-container {
+    height: 143px;
+    padding-top: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 1.5rem;
+    grid-row-gap: 2rem;
+    flex-wrap: wrap;
+    overflow: hidden;
+
+    .uni-logo {
+      width: 8rem;
+      height: 3rem;
+      object-fit: contain;
+      margin: 0 auto;
+    }
+  }
+}
+
+.meet-counsellor-container {
+  background: linear-gradient(90deg, #3fc6c3, #7557cf), linear-gradient(90deg, #f09c61, #ed712f), #fff;
+  padding: 6em 0;
+  display: flex;
+  justify-content: center;
+
+  .subcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // background: #fff;
+    color: #fff;
+    padding: 2rem;
+    border-radius: 10rem;
+  }
+
+  .white-btn {
+    color: #fff;
+  }
+}

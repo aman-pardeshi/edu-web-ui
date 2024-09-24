@@ -1,0 +1,40 @@
+<div class="wrapper">
+  <div class="leading-unv-container py-5">
+    <div class="wrapper">
+      <h2 class="font-bold text-4xl my-4 text-900 text-center">Universities</h2>
+
+      <div class="flex justify-content-center mt-3 gap-3 pb-3">
+        <p-selectButton
+          [options]="countryOptions"
+          [(ngModel)]="selectedCountry"
+          optionLabel="name"
+          optionValue="value"
+        >
+          <ng-template let-item pTemplate> {{ item.name }}</ng-template>
+        </p-selectButton>
+      </div>
+
+      <div class="logos-container">
+        <img
+          [src]="university.logo"
+          alt=""
+          *ngFor="
+            let university of universities[selectedCountry]?.universities;
+            index as i
+          "
+          class="uni-logo"
+        />
+      </div>
+    </div>
+
+    <div class="flex justify-content-center mt-4 pt-3">
+      <a
+        pButton
+        label="See all partner universities"
+        class="p-button-outlined"
+        size="large"
+        routerLink="/partner-universities"
+      ></a>
+    </div>
+  </div>
+</div>
